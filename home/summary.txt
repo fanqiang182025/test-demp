@@ -10,3 +10,4 @@ git checkout --
 git reset HEAD demo.html
 git reset --hard HEAD^  
 git reset --hard b9d1d9f864b173b12bcecfceba60bb92e00498e 整个项目后退
+git checkout 44270400 -- version.html    

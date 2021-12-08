@@ -7,3 +7,4 @@ git show
 git rm
 git mv
 git checkout --  
+git reset HEAD demo.html
